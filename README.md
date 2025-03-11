@@ -1,4 +1,4 @@
-# CUA Browser
+# Computer Use Browser
 
 > [!WARNING]
 > This is simply a proof of concept.
